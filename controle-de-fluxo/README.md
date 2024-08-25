@@ -16,9 +16,9 @@ O projeto consiste em uma classe principal chamada `Contador`, que contém a ló
 ## Como Usar
 
 1. Clone o repositório do projeto:
-   ```bash
-   git clone https://github.com/EdsonPsil/dio-trilha-java-basico/controle-de-fluxo.git
-   ```
+```
+  https://github.com/EdsonPsil/dio-trilha-java-basico.git
+```   
 
 2. Importe o projeto em sua IDE preferida.
 
@@ -38,10 +38,6 @@ O projeto consiste em uma classe principal chamada `Contador`, que contém a ló
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## Licença
-
-Este projeto está sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Autores
 
